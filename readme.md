@@ -4,6 +4,15 @@
 &nbsp; | &nbsp;
 [repo](https://github.com/detmarp/detmarp.github.io)
 
+# Real-life outdoor adventures
+
+## Hiking from Pleasanton to Ben Lomand
+[Hiking stories](./escape)
+
+***
+
+# Cyber space coding adventures
+
 ## three_next
 2022-09-22
 
