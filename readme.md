@@ -4,21 +4,24 @@
 &nbsp; | &nbsp;
 [repo](https://github.com/detmarp/detmarp.github.io)
 
-# Real-life outdoor adventures
+## notebook project
+[notebook](./notebook)
 
-## Hiking from Pleasanton to Ben Lomand
+## Real-life outdoor adventures
+
+### Hiking from Pleasanton to Ben Lomand
 [Hiking stories](./escape)
 
 ***
 
-# Cyber space coding adventures
+## Cyber space coding adventures
 
-## three_next
+### three_next
 2022-09-22
 
 Here in [**three_next**](./three_next) I'm going to play around with better JavaScript, and have a little fun.
 
-## three_start
+### three_start
 2022-08-27
 
 My [**three_start**](./three_start) repo is where I'm writing some starter [`three.js`](https://threejs.org/) scripts.
