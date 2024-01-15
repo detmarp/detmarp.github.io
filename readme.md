@@ -12,8 +12,6 @@
 ### Hiking from Pleasanton to Ben Lomand
 [Hiking stories](./escape)
 
-***
-
 ## Cyber space coding adventures
 
 ### three_next
