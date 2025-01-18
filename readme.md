@@ -4,7 +4,7 @@
 &nbsp; | &nbsp;
 [repo](https://github.com/detmarp/detmarp.github.io)
 
-<iframe src="https://./three_next/glinda" width="100%" height="500"></iframe>
+<iframe src="./three_next/glinda" width="100%" height="500"></iframe>
 
 ## notebook project
 [notebook](./notebook)
