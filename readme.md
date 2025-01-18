@@ -4,6 +4,8 @@
 &nbsp; | &nbsp;
 [repo](https://github.com/detmarp/detmarp.github.io)
 
+<iframe src="https://https://meta.stackexchange.com/questions/157459/i-stack-imgur-com-images-being-blocked" width="100%" height="500"></iframe>
+
 ## notebook project
 [notebook](./notebook)
 
