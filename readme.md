@@ -4,17 +4,8 @@
 &nbsp; | &nbsp;
 [repo](https://github.com/detmarp/detmarp.github.io)
 
-a
-
-<a href="./three_next/glinda" target="_blank"> 
-  <iframe src="./three_next/glinda" width="20%" height="15%"></iframe> 
-</a>
-
-b
-
-<iframe src="./three_next/glinda" width="20%" height="15%"></iframe>
-
-c
+<iframe src="./three_next/glinda" width="20%" height="15%"></iframe><br>
+[./three_next/glinda](./three_next/glinda)
 
 ## notebook project
 [notebook](./notebook)
