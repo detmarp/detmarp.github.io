@@ -1,5 +1,10 @@
 # detmarp.github.io
 
+## three_next repo
+Started in 2022
+
+[**three_next**](./three_next) was my next-level poking around with three.js.  It grew into sub-projects outside of three-d.
+
 [web page](https://detmarp.github.io)
 &nbsp; | &nbsp;
 [repo](https://github.com/detmarp/detmarp.github.io)
@@ -7,26 +12,13 @@
 <iframe src="./three_next/glinda" width="20%" height="15%"></iframe><br>
 [./three_next/glinda](./three_next/glinda)
 
-## notebook project
+## notebook repo
 [notebook](./notebook)
 
-## Real-life outdoor adventures
+## escape repo. Hiking and other ideas
+[escape](./escape)
 
-### Hiking from Pleasanton to Ben Lomand
-[Hiking stories](./escape)
-
-## Cyber space coding adventures
-
-### three_next
-2022-09-22
-
-Here in [**three_next**](./three_next) I'm going to play around with better JavaScript, and have a little fun.
-
-### three_start
+## three_start
 2022-08-27
 
 My [**three_start**](./three_start) repo is where I'm writing some starter [`three.js`](https://threejs.org/) scripts.
-
-OK, I'm pretty happy with that simple start.  Let me try something a little more.
-
-[test page](test-page.md)
