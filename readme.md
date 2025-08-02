@@ -1,5 +1,8 @@
 # detmarp.github.io
 
+## Escape
+[escape](./escape)
+
 ## three_next repo
 Started in 2022
 
@@ -14,9 +17,6 @@ Started in 2022
 
 ## notebook repo
 [notebook](./notebook)
-
-## escape repo. Hiking and other ideas
-[escape](./escape)
 
 ## three_start
 2022-08-27
