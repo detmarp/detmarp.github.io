@@ -3,7 +3,7 @@
 2022-
 
 ## escape
-[escape site](https://detmarp.github.io/escape) | [escape repo](https://github.com/detmarp/detmarp.github.io/tree/main/escape)
+[escape site](https://detmarp.github.io/escape) | [escape repo](https://github.com/detmarp/escape)
 
 2023-
 
