@@ -1,4 +1,10 @@
+this is the top of the md file
+
 # detmarp.github.io
+
+**[🌐 Live Site](https://detmarp.github.io)** &nbsp; | &nbsp; **[📂 GitHub Repo](https://github.com/detmarp/detmarp.github.io)**
+
+---
 
 ## Escape
 [escape](./escape)
