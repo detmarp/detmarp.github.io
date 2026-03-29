@@ -1,9 +1,16 @@
 [detmarp site](https://detmarp.github.io) | [repo](https://github.com/detmarp/detmarp.github.io)
 
-created 2022
+2022-
 
 ## Escape
 [escape site](https://detmarp.github.io/escape) | [escape repo](https://github.com/detmarp/detmarp.github.io/tree/main/escape)
+
+<iframe src="./escape/kira"></iframe>
+[escape/kira](./escape/kira)
+
+<iframe src="./escape/paxi"></iframe>
+[escape/paxi](./escape/paxi)
+
 
 ---
 ## three_next repo
