@@ -1,12 +1,12 @@
 # detmarp.github.io
 
-[detmarp site](https://detmarp.github.io)&nbsp; | &nbsp;[repo](https://github.com/detmarp/detmarp.github.io)
+[detmarp site](https://detmarp.github.io) | [repo](https://github.com/detmarp/detmarp.github.io)
 
 text for detmarp top site
 
 
 ## Escape
-[escape site](https://detmarp.github.io/escape) &nbsp; | &nbsp; [escape repo](https://github.com/detmarp/detmarp.github.io/tree/main/escape)
+[escape site](https://detmarp.github.io/escape) | [escape repo](https://github.com/detmarp/detmarp.github.io/tree/main/escape)
 
 ---
 ## three_next repo
