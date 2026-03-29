@@ -1,0 +1,5 @@
+# Jekyll configuration for GitHub.io Pages site
+title: ""
+description: ""
+show_downloads: false
+theme: jekyll-theme-minimal
