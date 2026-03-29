@@ -1,3 +1,6 @@
+---
+layout: null
+---
 # detmarp.github.io
 
 [detmarp site](https://detmarp.github.io) | [repo](https://github.com/detmarp/detmarp.github.io)
