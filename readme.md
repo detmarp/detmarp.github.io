@@ -1,21 +1,22 @@
-
 # detmarp.github.io
 
-[detmarp site]({{site.url}})&nbsp;|&nbsp;[repo]({{site.github.repository_url}})
+[detmarp site](https://detmarp.github.io)&nbsp; | &nbsp;[repo](https://github.com/detmarp/detmarp.github.io)
 
 text for detmarp top site
----
+
+
 ## Escape
-[escape site]({{ site.url }}/escape) &nbsp; | &nbsp; [escape repo]({{ site.github.repository_url }}/tree/main/escape)
+[escape site](https://detmarp.github.io/escape) &nbsp; | &nbsp; [escape repo](https://github.com/detmarp/detmarp.github.io/tree/main/escape)
+
 ---
 ## three_next repo
 Started in 2022
 
 [**three_next**](./three_next) was my next-level poking around with three.js.  It grew into sub-projects outside of three-d.
 
-[web page]({{ site.url }})
+[web page](https://detmarp.github.io)
 &nbsp; | &nbsp;
-[repo]({{ site.github.repository_url }})
+[repo](https://github.com/detmarp/detmarp.github.io)
 
 <iframe src="./three_next/glinda" width="20%" height="15%"></iframe><br>
 [./three_next/glinda](./three_next/glinda)
