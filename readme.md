@@ -2,15 +2,15 @@
 
 2022-
 
-## ![escape favicon](./escape/favicon.ico)escape
+## escape
 [escape site](https://detmarp.github.io/escape) | [escape repo](https://github.com/detmarp/detmarp.github.io/tree/main/escape)
 
 2023-
 
-<iframe src="./escape/kira" frameborder="0" style="width: 100%; max-width: 300px; height: 200px; border: 1px solid #ddd; background: #eee;"></iframe>
+<iframe src="./escape/kira" frameborder="0" style="width: 100%; max-width: 250px; height: 150px; border: 1px solid #ddd; background: #eee;"></iframe>
 [escape/kira](./escape/kira)
 
-<iframe src="./escape/paxi" frameborder="0" style="width: 100%; max-width: 300px; height: 200px; border: 1px solid #ddd; background: #eee;"></iframe>
+<iframe src="./escape/paxi" frameborder="0" style="width: 100%; max-width: 250px; height: 150px; border: 1px solid #ddd; background: #eee;"></iframe>
 [escape/paxi](./escape/paxi)
 
 
