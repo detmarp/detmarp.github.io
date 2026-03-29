@@ -1,3 +1,4 @@
 # Jekyll configuration for GitHub.io Pages site
 # No title property = no auto-generated title rendering
+title: null
 description: ""

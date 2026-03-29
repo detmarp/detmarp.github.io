@@ -2,8 +2,7 @@
 
 [detmarp site](https://detmarp.github.io) | [repo](https://github.com/detmarp/detmarp.github.io)
 
-text for detmarp top site
-
+created 2022
 
 ## Escape
 [escape site](https://detmarp.github.io/escape) | [escape repo](https://github.com/detmarp/detmarp.github.io/tree/main/escape)
