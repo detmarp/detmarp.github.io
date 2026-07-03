@@ -17,7 +17,7 @@
 2023-
 
 <iframe src="./escape/boatgame/?mode=demo" frameborder="0" style="width: 100%; max-width: 250px; height: 150px; border: 1px solid #ddd; background: #eee;"></iframe>
-[ella](./escape/boatgame)
+[Boat Game](./escape/boatgame)
 
 <iframe src="./escape/kira" frameborder="0" style="width: 100%; max-width: 250px; height: 150px; border: 1px solid #ddd; background: #eee;"></iframe>
 [kira](./escape/kira) - 15 puzzle
